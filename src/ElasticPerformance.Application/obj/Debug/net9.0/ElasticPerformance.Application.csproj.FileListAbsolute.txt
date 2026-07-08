@@ -1,0 +1,15 @@
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.csproj.AssemblyReference.cache
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.AssemblyInfoInputs.cache
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.AssemblyInfo.cs
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.csproj.CoreCompileInputs.cache
+C:\svn\Elastic\src\ElasticPerformance.Application\bin\Debug\net9.0\ElasticPerformance.Application.deps.json
+C:\svn\Elastic\src\ElasticPerformance.Application\bin\Debug\net9.0\ElasticPerformance.Application.dll
+C:\svn\Elastic\src\ElasticPerformance.Application\bin\Debug\net9.0\ElasticPerformance.Application.pdb
+C:\svn\Elastic\src\ElasticPerformance.Application\bin\Debug\net9.0\ElasticPerformance.Domain.dll
+C:\svn\Elastic\src\ElasticPerformance.Application\bin\Debug\net9.0\ElasticPerformance.Domain.pdb
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticP.D0827739.Up2Date
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.dll
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\refint\ElasticPerformance.Application.dll
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ElasticPerformance.Application.pdb
+C:\svn\Elastic\src\ElasticPerformance.Application\obj\Debug\net9.0\ref\ElasticPerformance.Application.dll

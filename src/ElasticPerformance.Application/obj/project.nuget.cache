@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GZmg9zJvSI=",
+  "success": true,
+  "projectFilePath": "C:\\svn\\Elastic\\src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

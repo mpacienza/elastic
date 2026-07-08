@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\svn\\Elastic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7397-0EA9-4238-8D1C-B012A1BDDB83}|src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj|c:\\svn\\elastic\\src\\elasticperformance.infrastructure\\elasticperformance.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{544A7397-0EA9-4238-8D1C-B012A1BDDB83}|src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj|solutionrelative:src\\elasticperformance.infrastructure\\elasticperformance.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC3C6C7-867D-461A-88ED-6CA992C6EFEA}|src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj|c:\\svn\\elastic\\src\\elasticperformance.application\\elasticperformance.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DC3C6C7-867D-461A-88ED-6CA992C6EFEA}|src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj|solutionrelative:src\\elasticperformance.application\\elasticperformance.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC3C6C7-867D-461A-88ED-6CA992C6EFEA}|src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj|c:\\svn\\elastic\\src\\elasticperformance.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC3C6C7-867D-461A-88ED-6CA992C6EFEA}|src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj|solutionrelative:src\\elasticperformance.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7397-0EA9-4238-8D1C-B012A1BDDB83}|src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj|c:\\svn\\elastic\\src\\elasticperformance.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7397-0EA9-4238-8D1C-B012A1BDDB83}|src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj|solutionrelative:src\\elasticperformance.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64703B3A-1AD7-4808-8D9F-D2969621FDDA}|src\\ElasticPerformance.API\\ElasticPerformance.API.csproj|c:\\svn\\elastic\\src\\elasticperformance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64703B3A-1AD7-4808-8D9F-D2969621FDDA}|src\\ElasticPerformance.API\\ElasticPerformance.API.csproj|solutionrelative:src\\elasticperformance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElasticPerformance.Infrastructure",
+              "DocumentMoniker": "C:\\svn\\Elastic\\src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj",
+              "ToolTip": "C:\\svn\\Elastic\\src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj",
+              "RelativeToolTip": "src\\ElasticPerformance.Infrastructure\\ElasticPerformance.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T15:02:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElasticPerformance.Application",
+              "DocumentMoniker": "C:\\svn\\Elastic\\src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj",
+              "RelativeDocumentMoniker": "src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj",
+              "ToolTip": "C:\\svn\\Elastic\\src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj",
+              "RelativeToolTip": "src\\ElasticPerformance.Application\\ElasticPerformance.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T15:02:20.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\svn\\Elastic\\src\\ElasticPerformance.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ElasticPerformance.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\svn\\Elastic\\src\\ElasticPerformance.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ElasticPerformance.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:01:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\svn\\Elastic\\src\\ElasticPerformance.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\ElasticPerformance.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\svn\\Elastic\\src\\ElasticPerformance.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\ElasticPerformance.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:01:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\svn\\Elastic\\src\\ElasticPerformance.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ElasticPerformance.API\\Program.cs",
+              "ToolTip": "C:\\svn\\Elastic\\src\\ElasticPerformance.API\\Program.cs",
+              "RelativeToolTip": "src\\ElasticPerformance.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T15:00:57.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

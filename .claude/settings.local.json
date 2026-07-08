@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude:*)",
+      "Bash(npm view:*)",
+      "Bash(dotnet:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(curl:*)",
+      "Bash(ASPNETCORE_ENVIRONMENT=Development dotnet run)",
+      "Bash(mongosh:*)",
+      "Bash(mongo:*)",
+      "Bash(docker exec:*)",
+      "Bash(mkdir -p \"C:/svn/Elastic/src/ElasticPerformance.Application/DTOs\")",
+      "Bash(mkdir -p \"C:/svn/Elastic/src/ElasticPerformance.Application/Interfaces\")",
+      "Bash(mkdir -p \"C:/svn/Elastic/src/ElasticPerformance.Application/Services\")",
+      "Bash(mkdir -p \"C:/svn/Elastic/src/ElasticPerformance.Infrastructure/Configuration\")",
+      "Bash(mkdir -p \"C:/svn/Elastic/src/ElasticPerformance.Infrastructure/Repositories\")"
+    ]
+  }
+}
